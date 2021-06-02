@@ -15,20 +15,20 @@
 - Tqdm 4.48.2
 
 ## How to use
-### 1.1 set a name of attribute on lib/config.py
+### 1. set a name of attribute on lib/config.py
   * if your data has USER_ID named "userId" you must change the content like following
   <pre><code>
     USER_ID = "userId"
   </code></pre>
   
-### 1.2 set a value of data range on lib/config.py
+### 2. set a value of data range on lib/config.py
   * if you want 2020/1/1 ~ 2020/12/31 you can change like following:
   <pre><code>
     START_DATE = datetime.datetime(2020, 1, 1)
     END_DATE = datetime.datetime(2020, 12, 31)
   </code></pre>
 
-### 1.3 set the parameters on lib/config.py
+### 3. set the parameters on lib/config.py
   <pre><code>
   EXTRACT_PARAS = [{"case":"both",    "stay_period":(2, 10), "use_ratio":70, "tour_station_count": 1},
                    {"case":"first",   "stay_period":(2, 10), "use_ratio":70, "tour_station_count": 3},
@@ -36,7 +36,7 @@
                    {"case":"neither", "stay_period":(2, 10), "use_ratio":90, "tour_station_count": 4}]
   </code></pre>
 
-### 1.4 run all of "1.1 Extract user and station"
+### 4. run all of "1.1 Extract user and station"
 
 ## Cautions
 - 이 알고리즘은 [제주 빅데이터 센터](https://bc.jejudatahub.net/main)에서 제공하는 제주 대중교통 버스 교통카드 빅데이터(tb_bus_user_usage, 버스 이용 데이터)에 최적화되어 있습니다.
