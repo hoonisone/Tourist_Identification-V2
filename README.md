@@ -9,9 +9,18 @@ Tourist Identification from Public Transportation Passengers Considering the Typ
     USER_ID = "userId"
   </code></pre>
   
-#### 1.1.2 set a value of data range
+##### 1.1.2 set a value of data range
   * if you want 2020/1/1 ~ 2020/12/31 you can change like following:
   <pre><code>
     START_DATE = datetime.datetime(2020, 1, 1)
     END_DATE = datetime.datetime(2020, 12, 31)
+  </code></pre>
+
+##### 1.1.3 set the parameters
+
+  <pre><code>
+  EXTRACT_PARAS = [{"case":"both", "stay_period":(2, 10), "use_ratio":70, "tour_station_count": 1},
+                   {"case":"first", "stay_period":(2, 10), "use_ratio":70, "tour_station_count": 3},
+                   {"case":"last", "stay_period":(2, 10), "use_ratio":80, "tour_station_count": 3},
+                   {"case":"neither", "stay_period":(2, 10), "use_ratio":90, "tour_station_count": 4}]
   </code></pre>
