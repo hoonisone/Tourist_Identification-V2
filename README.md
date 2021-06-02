@@ -9,5 +9,9 @@ Tourist Identification from Public Transportation Passengers Considering the Typ
 ### 1.2 data range
   * you can ditermine data range modifying START_DATA and END_DATA value on lib/config.py
   * if you want 2020/1/1 ~ 2020/12/31 you can change like next:
+  <pre>
+  <code>
     START_DATE = datetime.datetime(2020, 1, 1)
     END_DATE = datetime.datetime(2020, 12, 31)
+  </code>
+  </pre>
