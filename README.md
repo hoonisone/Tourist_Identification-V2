@@ -44,7 +44,7 @@
 
 ### 4. Run `main/1.1 Extract user and station.ipynb` through jupyter notebook.
 
-### 5. After 4, running you can find following on data/analysys
+### 5. After 4, you can obtain the following results in 'data/analysis':
   * station.csv
   * user.csv
 
