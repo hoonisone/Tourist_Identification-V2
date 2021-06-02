@@ -17,10 +17,11 @@ Tourist Identification from Public Transportation Passengers Considering the Typ
   </code></pre>
 
 ##### 1.1.3 set the parameters
-
   <pre><code>
-  EXTRACT_PARAS = [{"case":"both", "stay_period":(2, 10), "use_ratio":70, "tour_station_count": 1},
-                   {"case":"first", "stay_period":(2, 10), "use_ratio":70, "tour_station_count": 3},
-                   {"case":"last", "stay_period":(2, 10), "use_ratio":80, "tour_station_count": 3},
+  EXTRACT_PARAS = [{"case":"both",    "stay_period":(2, 10), "use_ratio":70, "tour_station_count": 1},
+                   {"case":"first",   "stay_period":(2, 10), "use_ratio":70, "tour_station_count": 3},
+                   {"case":"last",    "stay_period":(2, 10), "use_ratio":80, "tour_station_count": 3},
                    {"case":"neither", "stay_period":(2, 10), "use_ratio":90, "tour_station_count": 4}]
   </code></pre>
+
+### 1.2 run all of "1.1 Extract user and station"
