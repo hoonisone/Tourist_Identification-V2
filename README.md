@@ -1,12 +1,16 @@
-# Tourist-Identification
+# Tourist Identification
 
 **An Enhanced Algorithm for Tourist Identification from Public Transportation Passengers Considering the Types of Access to A Tourist City**
+
 **관광도시 출입 유형을 고려한 대중교통 이용 관광객 식별 알고리즘 개선**
 
-- Authors: [MyungHun Han*](https://education.jejunu.ac.kr/education/department/educom.htm) [Yechan Kim*](https://sites.google.com/view/yechankim) [Seong Baeg Kim*](https://education.jejunu.ac.kr/education/department/educom.htm)
+- Authors:
+  - [MyungHun Han*](https://education.jejunu.ac.kr/education/department/educom.htm)    
+  - [Yechan Kim*](https://sites.google.com/view/yechankim)    
+  - [Seong Baeg Kim](https://education.jejunu.ac.kr/education/department/educom.htm)
 
 ## Novelty
-- This repository includes enhanced algorithm for `Jeju's tourist identification` from `encrpyted` public transportation dataset considering the `types of access to Jeju`. Kindly read the [paper]() for details.
+- This repository includes enhanced algorithm for `Jeju tourist identification` from `encrpyted` public transportation dataset considering the `types of access to Jeju`. Kindly read the [paper]() for details.
 - 본 GitHub 레퍼지토리는`암호화`된 대중교통 이용 데이터에서 `제주 관광객`을 더욱 정확하게 `식별`하기 위해, `관광도시 (제주) 출입 유형`을 고려하여 종래에 제안한 [알고리즘](https://doi.org/10.5626/KTCP.2020.26.8.349)을 개선한 알고리즘의 소스코드를 제공합니다. 세부사항은 [논문]()을 참고하시기 바랍니다.
 
 ## Prerequisites
