@@ -4,11 +4,15 @@ Tourist Identification from Public Transportation Passengers Considering the Typ
 # 1. How To Use
 ### 1.1 set data attribute name
   * you can modify attribute names on lib/config.py
-  * if your data has USER_ID named "userId" you must change the content like USER_ID = "userId"
-
+  * if your data has USER_ID named "userId" you must change the content like following
+  <pre>
+  <code>
+    USER_ID = "userId"
+  </code>
+  </pre>
 ### 1.2 data range
   * you can ditermine data range modifying START_DATA and END_DATA value on lib/config.py
-  * if you want 2020/1/1 ~ 2020/12/31 you can change like next:
+  * if you want 2020/1/1 ~ 2020/12/31 you can change like following:
   <pre>
   <code>
     START_DATE = datetime.datetime(2020, 1, 1)
