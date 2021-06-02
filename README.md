@@ -36,7 +36,7 @@
                    {"case":"neither", "stay_period":(2, 10), "use_ratio":90, "tour_station_count": 4}]
   </code></pre>
 
-### 4. run following code
+### 4. run following
   * main/1.1 Extract user and station
 
 ### 5. after running you can find following on data/analysys
@@ -64,6 +64,10 @@
 |user_type|일반|
 |user_count|1|
 |input_date|20190603|
+
+## Performance
+
+
 
 ## Cautions
 - 이 알고리즘은 [제주 빅데이터 센터](https://bc.jejudatahub.net/main)에서 제공하는 제주 대중교통 버스 교통카드 빅데이터(tb_bus_user_usage, 버스 이용 데이터)에 최적화되어 있습니다.
