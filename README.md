@@ -38,6 +38,9 @@
 
 ### 4. run all of "1.1 Extract user and station"
 
+### 5. after running you can find following on data/analysys
+  * station.csv
+  * user.csv
 
 ## Data sample
 |attribute|value|
