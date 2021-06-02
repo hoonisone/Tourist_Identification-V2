@@ -36,7 +36,8 @@
                    {"case":"neither", "stay_period":(2, 10), "use_ratio":90, "tour_station_count": 4}]
   </code></pre>
 
-### 4. run all of "1.1 Extract user and station"
+### 4. run following code
+  * main/1.1 Extract user and station
 
 ### 5. after running you can find following on data/analysys
   * station.csv
