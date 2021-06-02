@@ -56,7 +56,7 @@
 |base_date|20190601|
 |route_id|22610000|
 |route_name|292-2(한림체육관~제주버스터미널(종점))|
-|rout_no|292-2|
+|route_no|292-2|
 |geton_datetime|20190601150225|
 |geton_station_id|988|
 |geton_stataion_name|납읍리사무소|
