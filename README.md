@@ -38,6 +38,28 @@
 
 ### 4. run all of "1.1 Extract user and station"
 
+## Data sample
+|attribute|value|
+|------|------|
+|user_id|f6f372cf8c6732eafc2a82b4f9d7a08bb3b493213ea4efbd3f4bba1d058406a7|
+|base_date|20190601|
+|route_id|22610000|
+|route_name|292-2(한림체육관~제주버스터미널(종점))|
+|rout_no|292-2|
+|geton_datetime|20190601150225|
+|geton_station_id|988|
+|geton_stataion_name|납읍리사무소|
+|geton_station_longitude|126.32944|
+|geton_station_latitude|33.43944|
+|getoff_datetime|20190601151638|
+|getoff_station_id|26|
+|getoff_stataion_name|하귀초등학교|
+|getoff_station_longitude|126.40212|
+|getoff_station_latitude|33.48017|
+|user_type|일반|
+|user_count|1|
+|input_date|20190603|
+
 ## Cautions
 - 이 알고리즘은 [제주 빅데이터 센터](https://bc.jejudatahub.net/main)에서 제공하는 제주 대중교통 버스 교통카드 빅데이터(tb_bus_user_usage, 버스 이용 데이터)에 최적화되어 있습니다.
 
