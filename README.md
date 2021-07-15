@@ -5,13 +5,13 @@
 **관광도시 출입 유형을 고려한 대중교통 이용 관광객 식별 알고리즘 개선**
 
 - Authors:
-  - [MyungHun Han*](https://education.jejunu.ac.kr/education/department/educom.htm)    
+  - [MyungHun Han*](https://sites.google.com/view/hoonisone)    
   - [Yechan Kim*](https://sites.google.com/view/yechankim)    
   - [Seong Baeg Kim](https://education.jejunu.ac.kr/education/department/educom.htm)
 
 ## Novelty
-- This repository includes enhanced algorithm for `Jeju tourist identification` from `encrpyted` public transportation dataset considering the `types of access to Jeju`. Kindly read the [paper]() for details.
-- 본 GitHub 레퍼지토리는`암호화`된 대중교통 이용 데이터에서 `제주 관광객`을 더욱 정확하게 `식별`하기 위해, `관광도시 (제주) 출입 유형`을 고려하여 종래에 제안한 [알고리즘](https://doi.org/10.5626/KTCP.2020.26.8.349)을 개선한 알고리즘의 소스코드를 제공합니다. 세부사항은 [논문]()을 참고하시기 바랍니다.
+- This repository includes enhanced algorithm for `Jeju tourist identification` from `encrpyted` public transportation dataset considering the `types of access to Jeju`. Kindly read the [paper](https://doi.org/10.5626/KTCP.2021.27.7.314) for details.
+- 본 GitHub 레퍼지토리는`암호화`된 대중교통 이용 데이터에서 `제주 관광객`을 더욱 정확하게 `식별`하기 위해, `관광도시 (제주) 출입 유형`을 고려하여 종래에 제안한 [알고리즘](https://doi.org/10.5626/KTCP.2020.26.8.349)을 개선한 알고리즘의 소스코드를 제공합니다. 세부사항은 [논문](https://doi.org/10.5626/KTCP.2021.27.7.314)을 참고하시기 바랍니다.
 
 ## Prerequisites
 - Python
@@ -76,7 +76,7 @@
 ## Cite this paper:
 
 >[In Korean]
-한명훈, 김예찬, 김성백, "관광도시 출입 유형을 고려한 대중교통 이용 관광객 식별 알고리즘 개선," 정보과학회 컴퓨팅의 실제 논문지, Vol. --, No. -, pp. 000-000, 2021.
+한명훈, 김예찬, 김성백, "관광도시 출입 유형을 고려한 대중교통 이용 관광객 식별 알고리즘 개선," 정보과학회 컴퓨팅의 실제 논문지, Vol. 27, No. 7, pp. 314-324, 2021.
 
 >[In English]
-Myunghun Han, Yechan Kim and Seong-Baeg Kim, "An Enhanced Algorithm for Tourist Identification from Public Transportation Passengers Considering the Types of Access to a Tourist City," KIISE Transactions on Computing Practices, Vol. --, No. -, pp. 000-000, 2021.
+Myunghun Han, Yechan Kim and Seong-Baeg Kim, "An Enhanced Algorithm for Tourist Identification from Public Transportation Passengers Considering the Types of Access to a Tourist City," KIISE Transactions on Computing Practices, Vol. 27, No. 7, pp. 314-324, 2021.
