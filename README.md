@@ -1,6 +1,6 @@
 # Tourist Identification
 
-**An Enhanced Algorithm for Tourist Identification from Public Transportation Passengers Considering the Types of Access to A Tourist City**
+**Enhanced Algorithm for Tourist Identification from Public Transportation Passengers Considering Types of Access to A Tourist City**
 
 **관광도시 출입 유형을 고려한 대중교통 이용 관광객 식별 알고리즘 개선**
 
@@ -79,4 +79,4 @@
 한명훈, 김예찬, 김성백, "관광도시 출입 유형을 고려한 대중교통 이용 관광객 식별 알고리즘 개선," 정보과학회 컴퓨팅의 실제 논문지, Vol. 27, No. 7, pp. 314-324, 2021.
 
 >[In English]
-Myunghun Han, Yechan Kim and Seong-Baeg Kim, "An Enhanced Algorithm for Tourist Identification from Public Transportation Passengers Considering the Types of Access to a Tourist City," KIISE Transactions on Computing Practices, Vol. 27, No. 7, pp. 314-324, 2021.
+Myunghun Han, Yechan Kim and Seong-Baeg Kim, "Enhanced Algorithm for Tourist Identification from Public Transportation Passengers Considering Types of Access to A Tourist City," KIISE Transactions on Computing Practices, Vol. 27, No. 7, pp. 314-324, 2021.
